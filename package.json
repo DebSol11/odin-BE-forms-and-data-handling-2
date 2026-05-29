@@ -1,0 +1,29 @@
+{
+  "name": "odin-be-forms-and-data-handling-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DebSol11/odin-BE-forms-and-data-handling-2.git"
+  },
+  "keywords": [],
+  "author": "example_user",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DebSol11/odin-BE-forms-and-data-handling-2/issues"
+  },
+  "homepage": "https://github.com/DebSol11/odin-BE-forms-and-data-handling-2#readme",
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "express-validator": "^7.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
